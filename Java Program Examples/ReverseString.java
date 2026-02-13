@@ -2,6 +2,8 @@
 public class ReverseString {
 	public static void main(String[] args) {
 		String str = "Apple";
+
+		// Calling the reverse function
 		System.out.println(FnReverse(str));
 	}
 
