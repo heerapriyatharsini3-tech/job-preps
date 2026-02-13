@@ -2,7 +2,7 @@
 Contains java related programs and learnings.
 
 # Folder Structure
-1. Java Program Examples
+1. Java Program Examples - Folder contains java example programs
 2. Selenium Program Examples
 3. Manual Testing - Common Interview Questions
 4. Automation Testing - Common Interview Questions
